@@ -1,0 +1,7 @@
+{
+  "name": "MedLink Hospital Appointment System",
+  "description": "A comprehensive hospital management platform featuring role-based dashboards for patients and doctors, specialty-based booking with double-booking prevention, and integrated payment flows.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
